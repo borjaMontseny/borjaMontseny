@@ -15,19 +15,19 @@
   <a href="https://www.java.com/es/">
     <img src="/icons/languages/java.svg">
   </a>
-  <a href="#">
+  <a href="https://www.mysql.com/">
     <img src="/icons/languages/mysql.svg">
   </a>
-  <a href="#">
+  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
     <img src="/icons/languages/javascript.svg">
   </a>
-  <a href="#">
+  <a href="https://www.typescriptlang.org/">
     <img src="/icons/languages/typescript.svg">
   </a>
-  <a href="#">
+  <a href="https://developer.mozilla.org/es/docs/Web/HTML">
     <img src="/icons/languages/html.svg">
   </a>
-  <a href="#">
+  <a href="https://developer.mozilla.org/es/docs/Web/CSS">
     <img src="/icons/languages/css3.svg">
   </a>
 </p>
@@ -49,7 +49,7 @@
 </p>
 
 <p align="left">
-  <a href="https://aws.amazon.com/es/">
+  <a href="https://aws.amazon.com/">
     <img src="/icons/services/aws.svg">
   </a>
   <a href="https://www.heroku.com/">
@@ -77,9 +77,9 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/borja-montseny/">
-    <img src="/icons/socials/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
+    <img src="/icons/socials/linkedin.svg">
   </a>
   <a href="https://twitter.com/borjaMontseny">
-    <img src="/icons/socials/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
+    <img src="/icons/socials/twitter.svg">
   </a>
 </p>
