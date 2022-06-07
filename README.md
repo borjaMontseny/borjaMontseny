@@ -62,7 +62,7 @@
     <img src="/icons/tools/eclipse.svg">
   </a>
   <a href="https://code.visualstudio.com/">
-    <img src="/icons/tools/visualstudio_code.svg">
+    <img src="/icons/tools/vscode.svg">
   </a>
   <a href="https://docs.microsoft.com/es-es/powershell/">
     <img src="/icons/tools/powershell.svg">
@@ -78,11 +78,6 @@
 
 ## 📫 Social
 
-<p align="left">
-  <a href="https://solo.to/borjamontseny">
-    <img src="/icons/socials/pronouns.svg" alt="pronouns" style="vertical-align:top; margin:6px 4px">
-  </a>
-</p>
 <p align="left">
   <a href="https://www.linkedin.com/in/borja-montseny/">
     <img src="/icons/socials/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
