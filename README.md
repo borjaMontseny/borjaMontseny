@@ -7,7 +7,7 @@
 ## 👨🏻‍💻 About me
 * Currently I am studying Web Development
 * I started coding through a Full-Stack Bootcamp at T-Systems, focused on Java and Angular
-* Spanish and English
+* Repositories in English and Spanish
 
 ## 🛠️ Tech Stack
 
