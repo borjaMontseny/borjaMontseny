@@ -39,11 +39,7 @@
   <a href="https://angular.io/">
     <img src="/icons/frameworks/angular.svg">
   </a>
-    <a href="https://www.mongodb.com/">
-    <img src="/icons/frameworks/mongodb.svg">
-  </a>
-  </a>
-    <a href="https://getbootstrap.com/">
+   <a href="https://getbootstrap.com/">
     <img src="/icons/frameworks/bootstrap.svg">
   </a>
 </p>
