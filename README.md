@@ -39,9 +39,6 @@
   <a href="https://angular.io/">
     <img src="/icons/frameworks/angular.svg">
   </a>
-   <a href="https://getbootstrap.com/">
-    <img src="/icons/frameworks/bootstrap.svg">
-  </a>
 </p>
 
 <p align="left">
