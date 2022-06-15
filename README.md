@@ -42,15 +42,6 @@
 </p>
 
 <p align="left">
-  <a href="https://aws.amazon.com/">
-    <img src="/icons/services/aws.svg">
-  </a>
-  <a href="https://www.heroku.com/">
-    <img src="/icons/services/heroku.svg">
-  </a>
-</p>
-
-<p align="left">
   <a href="https://www.eclipse.org/ide/">
     <img src="/icons/tools/eclipse.svg">
   </a>
