@@ -7,7 +7,7 @@
 ## 👨🏻‍💻 About me
 * Currently I am studying Web Development
 * I started coding through a Full-Stack Bootcamp focused on Java, Spring and Angular
-* I am currently in a Data Bootcamp
+* I am currently in a Data Bootcamp focused on SQL, PowerBI and Oracle Data Integrator
 * Repositories in English, Spanish and Catalan
 <div align="center">
   
