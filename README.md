@@ -5,9 +5,8 @@
 </div>
   
 ## 👨🏻‍💻 About me
-* Currently I am studying Web Development
-* I started coding through a Full-Stack Bootcamp focused on Java, Spring and Angular
-* I am currently in a Data Bootcamp focused on SQL, PowerBI and Oracle Data Integrator
+* Web Development Student
+* Currently doing my internship at T-Systems Iberia as a Data Analyst (SQL, PowerBI and Oracle Data Integrator)
 * Repositories in English, Spanish and Catalan
 <div align="center">
   
@@ -70,7 +69,7 @@
   <a href="https://www.linkedin.com/in/borja-montseny/">
     <img src="/icons/socials/linkedin.svg">
   </a>
-  <a href="https://twitter.com/borjaMontseny">
+  <a href="https://x.com/borjaMontseny">
     <img src="/icons/socials/twitter.svg">
   </a>
 </p>
