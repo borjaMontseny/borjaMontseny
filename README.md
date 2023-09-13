@@ -5,8 +5,8 @@
 </div>
   
 ## 👨🏻‍💻 About me
-* Web Development Student
-* Currently doing my internship at T-Systems Iberia as a Data Analyst (SQL, PowerBI and Oracle Data Integrator)
+* Web Development Student - Junior Data Analyst
+* Currently doing my internship at T-Systems Iberia
 * Repositories in English, Spanish and Catalan
 <div align="center">
   
