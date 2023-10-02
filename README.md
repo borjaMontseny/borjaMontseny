@@ -6,7 +6,7 @@
   
 ## 👨🏻‍💻 About me
 * Web Development Student - Junior Data Analyst
-* Currently doing my internship at T-Systems Iberia
+* Currently doing my internship at T-Systems Iberia in the Data Department
 * Repositories in English, Spanish and Catalan
 <div align="center">
   
