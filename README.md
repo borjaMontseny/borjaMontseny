@@ -5,7 +5,7 @@
 </div>
   
 ## 👨🏻‍💻 About me
-* Web Developer - Junior Data Analyst
+* Web Developer & Junior Data Analyst
 * Currently working at T-Systems Iberia in the Data Department
 * Repositories in English, Spanish and Catalan
 <div align="center">
